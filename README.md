@@ -26,7 +26,7 @@
 ## 📊GitHub Stats:
 
 
-<a href="https://github.com/33Frok1e"><img align="center" src="https://github-readme-stats.vercel.app/api?username=33Frok1e&show_icons=true&bg_color=dark">
+<a href="https://github.com/33Frok1e"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rkmoharana-cyber&show_icons=true&bg_color=dark">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rkmoharana-cyber&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
