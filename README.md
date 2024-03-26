@@ -1,4 +1,4 @@
-## 🔗🎓About Me:
+## 🎓About Me:
 
 
 <h4 align="left">Hi 👋! I'm Rati Krishna Moharana, a versatile Professional Front-End Developer</h4>
@@ -11,12 +11,12 @@
 
 <h4 align="left">Feel free to connect via email at "<a href="mailto:mratikrishna@gmail.com">mratikrishna@gmail.com</a>". Let's Collaborate and create something amazing!😊🚀</h4>
 
-## 🔗🌐Socials:
+## 🌐Socials:
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rati-krishna-moharana-40b19627a)   [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Papuni737701573?t=pU7WwtErtSeJVXrbOQ1P2A&s=09)    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/frok1e_88?igsh=OGQ5ZDc2ODk2ZA==)
 
-## 🔗💻Tech Stack:
+## 💻Tech Stack:
 
 <p>
 
