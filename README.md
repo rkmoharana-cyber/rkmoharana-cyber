@@ -1,16 +1,33 @@
-### Hi there 👋
+## 🔗🎓About Me:
 
-<!--
-**rkmoharana-cyber/rkmoharana-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h4 align="left">Hi 👋! I'm Rati Krishna Moharana, a versatile Professional Front-End Developer</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  I'm Currently Lerning Mern Stack & AI.📝
+-  Love to build responsive and interactive.💥
+-  Looking For to collaborate on Frontend Projects.💬
+-  Fun Fact:
+   Cricket, Gaming & Learning New Technologies.⚡
+
+<h4 align="left">Feel free to connect via email at "<a href="mailto:mratikrishna@gmail.com">mratikrishna@gmail.com</a>". Let's Collaborate and create something amazing!😊🚀</h4>
+
+## 🔗🌐Socials:
+
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rati-krishna-moharana-40b19627a)   [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Papuni737701573?t=pU7WwtErtSeJVXrbOQ1P2A&s=09)    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/frok1e_88?igsh=OGQ5ZDc2ODk2ZA==)
+
+## 🔗💻Tech Stack:
+
+<p>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+</P>
+
+## 🔗📊GitHub Stats:
+
+
+<a href="https://github.com/33Frok1e"><img align="center" src="https://github-readme-stats.vercel.app/api?username=33Frok1e&show_icons=true&bg_color=dark">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=33Frok1e&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=33Frok1e&layout=compact&theme=dark)
