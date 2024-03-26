@@ -28,6 +28,6 @@
 
 <a href="https://github.com/33Frok1e"><img align="center" src="https://github-readme-stats.vercel.app/api?username=33Frok1e&show_icons=true&bg_color=dark">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=33Frok1e&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rkmoharana-cyber&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=33Frok1e&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkmoharana-cyber&layout=compact&theme=dark)
